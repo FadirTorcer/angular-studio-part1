@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+ul {
+    padding-left: 0px;
+    margin: 15px;
+    background-color: white;
+ }
+
+ h3 {
+    background-color: aquamarine;
+ }
+
+ h1 {
+    background-color: antiquewhite;
+ }

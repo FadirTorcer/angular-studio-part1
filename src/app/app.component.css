@@ -1,5 +1,13 @@
 .box {
     display: flex;
     padding: 10px;
+    justify-content: space-evenly;
  }
- 
+
+.dashboard {
+    width: 640px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
+}
